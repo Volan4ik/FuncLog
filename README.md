@@ -5,3 +5,10 @@ MAI Functional Logic Programming course 2nd year
 > файлы: taylor.fsx, equations.fsx
 
 [**тз к лабе + варианты**](https://github.com/MAILabs-Education/FP_Lab1_ru?tab=readme-ov-file#задание-0-установите-окружение-для-работы)
+
+# LAB 2 (var 20)
+> в процессе
+
+
+# LAB 3 (var 20)
+> в процессе
